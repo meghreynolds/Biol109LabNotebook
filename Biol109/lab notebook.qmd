@@ -1,7 +1,2 @@
----
-title: "lab notebook"
-format: html
----
-
 quarto create project book . lab
 quarto publish gh-pages

@@ -7,3 +7,12 @@ usethis::use_git_config(
 )
 
 usethis::create_github_token()
+
+quarto create project booklab
+quarto publish gh-pages\
+
+quarto create project book . lab
+quarto publish gh-pages
+
+
+
